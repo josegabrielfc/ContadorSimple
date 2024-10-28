@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ContadorSimple"
+rootProject.name = "ContadorApp"
 include(":app")
  
